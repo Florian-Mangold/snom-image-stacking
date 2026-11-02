@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper listed under preferred-citation."
+title: "Topography-guided image stacking for s-SNOM"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Mangold
+    given-names: Florian
+    affiliation: "4th Physics Institute, University of Stuttgart"
+keywords:
+  - s-SNOM
+  - near-field microscopy
+  - image stacking
+  - drift correction
+preferred-citation:
+  type: article
+  title: "Topography-Guided Image Stacking: Enhancing SNOM Measurements Without Additional Hardware"
+  status: submitted
+  year: 2026
+  authors:
+    - family-names: Mangold
+      given-names: Florian
+    - family-names: Aghashirinov
+      given-names: Farid
+    - family-names: Schwab
+      given-names: Julian
+    - family-names: Baù
+      given-names: Enrico
+    - family-names: Frank
+      given-names: Bettina
+    - family-names: Tittl
+      given-names: Andreas
+    - family-names: Giessen
+      given-names: Harald

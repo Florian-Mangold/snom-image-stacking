@@ -1,0 +1,29 @@
+# www.neaspec.com
+# Scan:	 	2D (PsHet)
+# Project:	 	Farid
+# Description:	 	Florian_IS_3200nm_RL1_6
+# Date:	 	04/16/2026 11:33:54
+# Scanner Center Position (X, Y):	[µm]	48.46	33.90	 
+# Rotation:	[°]	-53	 	 
+# Scan Area (X, Y, Z):	[µm]	20.000	20.000	0.000
+# Pixel Area (X, Y, Z):	[px]	220	220	1
+# Averaging:	 	1	 	 
+# Integration time:	[ms]	7	 	 
+# Laser Source:	 	Signal/Idler
+# Detector:	 	MIR
+# Target Wavelength:	[µm]		 	 
+# Demodulation Mode:	 	PsHet
+# Tip Frequency:	[Hz]	161,260.266	 	 
+# Tip Amplitude:	[mV]	60.000	 	 
+# Tapping Amplitude:	[nm]	156.194	 	 
+# Modulation Frequency:	[Hz]	300.859	 	 
+# Modulation Amplitude:	[mV]	28,700.000	 	 
+# Modulation Offset:	[mV]	1,673.323	 	 
+# Setpoint:	[%]	80.25	 	 
+# Regulator (P, I, D):	 	1.861107	2.270207	1.000000
+# Tip Potential:	[mV]	0.000	 	 
+# M1A Scaling:	[nm/V]	4.172	 	 
+# M1A Cantilever Factor:	 	2.833	 	 
+# Q-Factor:	 	329.0	 	 
+# Measurement Mode:	 	Self-Reference Off	 	 
+# Version:	 	2.1.11719.0

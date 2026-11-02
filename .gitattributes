@@ -1,0 +1,5 @@
+# Measurement and result files are binary: never convert line endings
+*.gsf binary
+*.npy binary
+*.tif binary
+*.png binary
