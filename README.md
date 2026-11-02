@@ -84,8 +84,9 @@ found by the code used for the paper.
 
 `example_data/` holds the first eight 10-min measurements of the series used in
 the paper (MoOCl₂ flake, λ = 3.2 µm, 20 × 20 µm², 220 × 220 pixels), with the
-AFM channel and the 2Ω to 5Ω near-field channels. The complete data set of 136
-measurements will be published together with the paper (link follows).
+AFM channel and the 2Ω to 5Ω near-field channels. The complete data set (all 136
+10-min measurements, the ten 60-min measurements and the 600-min measurement)
+is available on DaRUS: https://doi.org/10.18419/DARUS-6675
 
 ## Requirements
 
